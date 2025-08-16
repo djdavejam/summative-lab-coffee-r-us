@@ -1,0 +1,66 @@
+{
+  "store_info": {
+    "id": 1,
+    "name": "Coffee R Us",
+    "description": "The go to store for coffee",
+    "phone_number": "555-5555"
+  },
+  "coffee": [
+    {
+      "id": "2",
+      "description": "Dark Roast, Rich flavor",
+      "name": "House Blend",
+      "origin": "Vietnam",
+      "price": 12
+    },
+    {
+      "id": "3",
+      "description": "Light Roast, Citrus notes",
+      "name": "Ethiopian Yirgacheffe",
+      "origin": "Ethiopia",
+      "price": 15
+    },
+    {
+      "id": "4",
+      "description": "Medium Roast, Chocolate undertones",
+      "name": "Colombian Supreme",
+      "origin": "Colombia",
+      "price": 13.5
+    },
+    {
+      "id": "5",
+      "description": "Dark Roast, Smoky finish",
+      "name": "French Roast",
+      "origin": "Brazil",
+      "price": 11
+    },
+    {
+      "id": "6",
+      "description": "Medium Roast, Balanced flavor",
+      "name": "Breakfast Blend",
+      "origin": "Guatemala",
+      "price": 9.5
+    },
+    {
+      "id": "7",
+      "description": "Light Roast, Floral notes",
+      "name": "Kenya AA",
+      "origin": "Kenya",
+      "price": 16
+    },
+    {
+      "id": "8",
+      "description": "Dark Roast, Bold and intense",
+      "name": "Italian Espresso",
+      "origin": "Italy",
+      "price": 14
+    },
+    {
+      "id": "5445",
+      "name": "Silly Java",
+      "description": "Medium Roast, Extra Creamy",
+      "origin": "United States",
+      "price": 10
+    }
+  ]
+}

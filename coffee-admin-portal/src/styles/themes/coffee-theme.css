@@ -1,0 +1,27 @@
+
+:root {
+  /* Primary coffee colors */
+  --color-coffee-900: #78350f;
+  --color-coffee-800: #92400e;
+  --color-coffee-700: #a16207;
+  --color-coffee-600: #ca8a04;
+  --color-coffee-500: #eab308;
+  
+  /* Semantic colors */
+  --color-primary: var(--color-coffee-700);
+  --color-primary-hover: var(--color-coffee-800);
+  --color-secondary: var(--color-coffee-600);
+  
+  /* Layout variables */
+  --header-height: 4rem;
+  --card-border-radius: 0.5rem;
+  --transition-speed: 0.2s;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-primary: var(--color-coffee-600);
+    --color-primary-hover: var(--color-coffee-700);
+  }
+}
